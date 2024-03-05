@@ -1,4 +1,4 @@
-# ML-models
+# ML Models
 
 It is recommended to learn the Exploratory Data Analysis (EDA) before diving into the models:
 [Exploratory Data Analysis](https://colab.research.google.com/drive/1TZEquCkmDHbelZKvU7IHOkr__XK0_MDF?usp=sharing)
